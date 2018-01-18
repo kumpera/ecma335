@@ -1,0 +1,10 @@
+[package]
+name = "ecma335"
+version = "0.1.0"
+authors = ["Rodrigo Kumpera <kumpera@gmail.com>"]
+
+[dependencies]
+byteorder = "1.2.1"
+enum_primitive = "0.1.1"
+num = "0.1.41"
+lazy_static = "1.0.0"
